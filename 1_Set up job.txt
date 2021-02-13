@@ -1,0 +1,18 @@
+2021-01-20T13:55:17.6513610Z Current runner version: '2.275.1'
+2021-01-20T13:55:17.7348310Z ##[group]Operating System
+2021-01-20T13:55:17.7349290Z Mac OS X
+2021-01-20T13:55:17.7349660Z 10.15.7
+2021-01-20T13:55:17.7349980Z 19H15
+2021-01-20T13:55:17.7350350Z ##[endgroup]
+2021-01-20T13:55:17.7350790Z ##[group]Virtual Environment
+2021-01-20T13:55:17.7351320Z Environment: macos-10.15
+2021-01-20T13:55:17.7351750Z Version: 20201212.1
+2021-01-20T13:55:17.7352600Z Included Software: https://github.com/actions/virtual-environments/blob/macOS-10.15/20201212.1/images/macos/macos-10.15-Readme.md
+2021-01-20T13:55:17.7353460Z ##[endgroup]
+2021-01-20T13:55:17.7357070Z Prepare workflow directory
+2021-01-20T13:55:17.8652310Z Prepare all required actions
+2021-01-20T13:55:17.8664940Z Getting action download info
+2021-01-20T13:55:18.1126620Z Download action repository 'actions/checkout@v2'
+2021-01-20T13:55:24.3992030Z Download action repository 'jurplel/install-qt-action@v2'
+2021-01-20T13:55:25.7844220Z Download action repository 'nttld/setup-ndk@v1'
+2021-01-20T13:55:26.0811360Z Download action repository 'actions/upload-artifact@v1'
