@@ -1,5 +1,7 @@
-Crypto Attacks
-==============
+---
+layout: page
+title: Crypto Attacks
+---
 
 This is the second in a series of 3 sessions on practical cryptography.  In this session we'll talk about a number of practical attacks you can use on cryptosystems in the real world.
 
@@ -15,4 +17,6 @@ What you'll learn
 Video
 -----
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/jtcpREJLN1Y?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+<div class="container">
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jtcpREJLN1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

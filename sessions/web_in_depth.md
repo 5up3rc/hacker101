@@ -1,5 +1,7 @@
-The Web In Depth
-================
+---
+layout: page
+title: The Web In Depth
+---
 
 In this session we'll talk about how the web works from a security perspective.
 
@@ -17,4 +19,6 @@ What you'll learn
 Video
 -----
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/DWBUQiaN5ZM?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+<div class="container">
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DWBUQiaN5ZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

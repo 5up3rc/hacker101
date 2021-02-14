@@ -1,5 +1,7 @@
-Clickjacking
-============
+---
+layout: page
+title: Clickjacking
+---
 
 In this session we'll talk about clickjacking, an attack that can trick victims into performing actions surreptitiously.
 
@@ -14,4 +16,6 @@ What you'll learn
 Video
 -----
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/jcp5t8PsMsY?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+<div class="container">
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jcp5t8PsMsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
